@@ -1,2 +1,6 @@
+HEAD
 funkcja srednia waazona
-wagi 7 i 3
+
+
+wagi 9 i 1
+konflikt
